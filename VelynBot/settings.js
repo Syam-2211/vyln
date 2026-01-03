@@ -9,11 +9,11 @@ global.ownernumber = '62895342022385'  // ganti nomermu
 global.email = "luwibuu100@gmail.com" // gmail.com
 
 //——————————[ Set Bot ]——————————//
-global.botname = 'Velyn Alexandria' // ganti serah mu
+global.botname = '🕊🦋⃝♥⃝ѕиєнα🍁♥⃝🦋⃝🕊' // ganti serah mu
 global.versi = '1.5'
-global.foot = '© Velyn Alexandria' // Footer button
+global.foot = '🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓' // Footer button
 global.idSaluran = "120363204138641225@newsletter" // idch
-global.namach = "Velyn Alexandria" // namach
+global.namach = "🕊🦋⃝♥⃝ѕиєнα🍁♥⃝🦋⃝🕊" // namach
 global.aiUsageCount = global.aiUsageCount || {}; // jan kacau ha
 
 //——————————[ APIs ]——————————//
@@ -25,15 +25,22 @@ global.apiVel = "" //isi key mu di velyn.biz.id
 global.apiKey = 'otp_LPiTqaYwoFMtWSQU'; 
 
 //——————————[ Set Sticker ]——————————//
-global.packname = 'Velyn Alexandria'
-global.author = `ErerexID Chx`
+global.packname = '🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓
+
+    𝛨𝛯𝐿𝐿𝛩 𝐵𝛩𝐵𝛩
+
+            >𝟑💌🕊🦋🍒
+
+           🪡⇉ꪶ +91 99471 21619 ⃟⃮➣🤍
+           Hey youhh my name is { }'
+global.author = `𝑆𝑌𝛥𝛭.3𝐹𝛸`
 global.themeemoji = '🪀'
 global.wm = "Velyn Alexandria"
 // Ganti terserah klean ini pack sticker
 
 //——————————[ Set Link ]——————————//
 global.link = "https://whatsapp.com/channel/0029VaKoIaj9cDDgB6N9u232" //linkch
-global.namagc = "Velyn Alexandria" //nama grup
+global.namagc = "🕊🦋⃝♥⃝ѕиєнα🍁♥⃝🦋⃝🕊" //nama grup
 global.linkgc = "" //link gc
 global.velynApi = "https://velyn.biz.id"
 global.web = "https://www.velyn.biz.id" // website 
